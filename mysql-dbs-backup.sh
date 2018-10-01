@@ -1,6 +1,6 @@
 #!/bin/bash
 # Shell script to backup MySql database 
-# To backup Nysql databases file to /backup dir and later pick up by your 
+# To backup Mysql databases file to /backup dir and later pick up by your 
 # script. You can skip few databases from backup too.
 # For more info please see (Installation info):
 # http://www.cyberciti.biz/nixcraft/vivek/blogger/2005/01/mysql-backup-script.html 
